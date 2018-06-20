@@ -1,7 +1,7 @@
 # ioExtended18
 This is a repo containing all the materials used in the io Extended event for GDG UNILAG
 
-The sessions covered in the just concluded IO extended event covering the following codelabs:
+The sessions covered in the just concluded IO extended event covering the following slides and codelabs:
 
 ## Android
 
