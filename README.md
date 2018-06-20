@@ -42,13 +42,15 @@ io-movie-app (https://github.com/GDG-Unilag/io-movie-app)
 
 > Codelab: 
 
-Firebase Web Codelab (https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0)
+Firebase: Build a Real Time Web Chat App Codelab. (https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..%2Findex#0)
 
 > Slides: 
 
 Firebase (https://docs.google.com/presentation/d/1bK0YvYzBdwi1tt0epueXnkOgtvNpN9nFW0h10LLLdgg/edit#slide=id.p1)
 
-Repo: 
+> Repo: 
+
+friendly-chat (https://github.com/GDG-Unilag/friendly-chat)
 
 ## Tensorflow
 
