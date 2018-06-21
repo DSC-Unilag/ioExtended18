@@ -22,7 +22,7 @@ Building Beautiful UIs with Flutter (https://codelabs.developers.google.com/code
 
 > Slides:
 
-The Magic of Flutter (https://docs.google.com/presentation/d/1OhUyegRd2FdgMok4sMNZil4Mn_HDqEJn5GI8bcRN_-E/edit#slide=id.p)
+The Magic of Flutter (https://docs.google.com/presentation/d/1OhUyegRd2FdgMok4sMNZil4Mn_HDqEJn5GI8bcRN_-E/edit?usp=sharing)
 
 > Repo: 
 
