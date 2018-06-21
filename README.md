@@ -54,11 +54,11 @@ friendly-chat (https://github.com/GDG-Unilag/friendly-chat)
 
 ## Tensorflow
 
-Codelab: 
+CoLab: GDG_UNILAG_TensorFlow_Final.ipynb(https://colab.research.google.com/drive/1yEeSRPsLOOXMdWZve3HcOfzntssutyKl)
 
-Slides:
+Slides: GDG-Unilag 2018(https://docs.google.com/presentation/d/1I8yPCv9rUeql5ZcQAPINmvyeBeKxHqBEdcEuGE6ZyvE/edit#slide=id.p6)
 
-Repo: 
+Repo: (https://github.com/GDG-Unilag/Google_Developer_Group_Unilag.)
 
 
-
+Contributions to the REPO would be highly appreciated.
